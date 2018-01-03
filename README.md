@@ -2109,3 +2109,4 @@ Signed,
 - Paulo Henrique Sacramento ([@henriquesacramento](https://github.com/henriquesacramento)), Full Stack Developer, Bahia <3, Brazil
 - Jake Lacey ([@jakelacey2012](https://github.com/jakelacey2012)), Software Developer.
 - Ronnie ([@geekslider](https://github.com/geekslider)), CSE Undergraduate at Karunya University, Coimbatore,India
+- Van Loc ([@vanloc0301](https://github.com/vanloc0301)), Full Stack Developer at Dong Xanh Web, Ho Chi Minh City, Viet Nam
